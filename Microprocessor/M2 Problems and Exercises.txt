@@ -1,0 +1,8 @@
+1.
+1000000011 - Binary
+1003 - Octal
+203 - Hexa
+
+2.
+ 1111110111111101 - 16-bit twos complement notation 
+ 0000001000000011 - 16-bit excess notation

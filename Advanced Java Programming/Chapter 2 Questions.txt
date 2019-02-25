@@ -1,0 +1,16 @@
+Answer the following in a text or word document and submit here. 
+
+1.) Describe the 3 parts of the MVC model and the intended purpose for each one.
+	a. A model is data used by a program. This can be a database, file or a simple object such as an icon or a character in a video game.
+	b. The view is the means of displaynig objects within an application. Examples of this include a window or buttons/text within a window(anything a user can see).
+	c. A controller updates both models and views. It takes input and preforms coreesponding update. An example of this is a controller updates a model by changing the attributes of a character in a video game.
+
+2.) What 3 requirements does a JavaBean have? 
+
+2.) For the MVC example in chapter 2 (pg 34-47):
+
+What files make up the "Model"?
+
+What files make up the "View"?
+
+What files make up the "Controller"?
